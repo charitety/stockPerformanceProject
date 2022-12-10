@@ -91,7 +91,7 @@ while i < len(MEdata):
 plt.plot(MEstdiv)
 plt.xlabel("Weeks") 
 plt.ylabel("Standard Deviation of Closing Price")  
-plt.title("Weekly Standard Deviations of 23andMe Holding Co.(Apr 2021- Mar 2022)") 
+plt.title("Weekly Standard Deviations of 23andMe Holding Co.(June 2021 - Mar 2022)") 
 plt.savefig("MEstdiv.png")
 plt.show()
 
